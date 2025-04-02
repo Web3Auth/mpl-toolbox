@@ -41,7 +41,7 @@ type RawTokenAccountByOwner = {
     executable: boolean;
     lamports: number;
     owner: string;
-    rentEpoch: number;
+    rentEpoch: bigint;
   };
 };
 

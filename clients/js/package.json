@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/mpl-toolbox",
+  "name": "@web3auth/mpl-toolbox",
   "version": "0.10.0",
   "description": "Auto-generated essential Solana and Metaplex programs",
   "main": "dist/src/index.js",
@@ -29,8 +29,8 @@
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
-    "@metaplex-foundation/umi": "^0.8.2",
-    "@metaplex-foundation/umi-bundle-tests": "^0.8.2",
+    "@metaplex-foundation/umi": "^1.0.0",
+    "@metaplex-foundation/umi-bundle-tests": "^1.0.0",
     "@solana/web3.js": "^1.73.0",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.46.1",
