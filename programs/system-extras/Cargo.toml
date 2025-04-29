@@ -8,7 +8,7 @@ description = "Extra instructions built on top of the native System program."
 [dependencies]
 solana-program = ">= 1.14.13, < 1.18"
 shank = "0.3.0"
-borsh = "0.9.3"
+borsh = "0.10.3"
 thiserror = "~1.0"
 num-derive = "0.3.3"
 num-traits = "~0.2"
